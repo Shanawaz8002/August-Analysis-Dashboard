@@ -79,5 +79,3 @@ The dashboard and analytical queries focus on answering core corporate requireme
 ### 👨‍💻 Author & Project Maintainer
 **Shahnawaz Khan**  
 *Data Analytics & Fin Tech Student*  
-- **GitHub:** [Shanawaz8002](Shanawaz8002)
-- **LinkedIn:** [Shanawaz Khan](https://www.linkedin.com/in/shahnawaz-khan-b37bba26a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BU4jKaBUiQsy8%2B2akQv67nA%3D%3D)
