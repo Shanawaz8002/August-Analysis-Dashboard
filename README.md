@@ -58,7 +58,7 @@ The dashboard and analytical queries focus on answering core corporate requireme
 ---
 
 ## 📊 Interactive Dashboard Preview
-! [Dashboard Screenshot](https://github.com/Shanawaz8002/August-Analysis-Dashboard/blob/main/Aug%20Analysis%20Dashboard.png)
+! [Dashboard Screenshot](Aug%20Analysis%20Dashboard.png)
 
 ---
 
@@ -80,4 +80,4 @@ The dashboard and analytical queries focus on answering core corporate requireme
 **Shahnawaz Khan**  
 *Data Analytics & Fin Tech Student*  
 - **GitHub:** [Shanawaz8002](https://github.com/Shanawaz8002)  
-- **LinkedIn:** [Shanawaz Khan](www.linkedin.com/in/shahnawaz-khan-b37bba26a)
+- **LinkedIn:** [Shanawaz Khan](https://www.linkedin.com/in/shahnawaz-khan-b37bba26a)
