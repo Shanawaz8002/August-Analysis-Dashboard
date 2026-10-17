@@ -58,7 +58,7 @@ The dashboard and analytical queries focus on answering core corporate requireme
 ---
 
 ## 📊 Interactive Dashboard Preview
-! [Dashboard Screenshot](Aug%20Analysis%20Dashboard.png)
+! [Dashboard Screenshot](Aug Analysis Dashboard.png)
 
 ---
 
